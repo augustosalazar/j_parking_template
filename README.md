@@ -2,6 +2,8 @@
 
 Implementation of a parking lot system using the provided UML diagram.
 
+# UML
+![image](https://github.com/user-attachments/assets/33c5d9d4-2bd7-486c-bada-5b0cf3953ff8)
 
    
 ## PlantUML code:
